@@ -1,0 +1,2 @@
+# 禁止Pycache文件被提交
+**/__pycache__/*
